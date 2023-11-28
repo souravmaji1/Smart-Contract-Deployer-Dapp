@@ -16,7 +16,7 @@ const Home = () => {
 
     try {
       const openai = new OpenAI({
-        apiKey: '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',
+        apiKey: '',
         dangerouslyAllowBrowser: true,
       });
 
