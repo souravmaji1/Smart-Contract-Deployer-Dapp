@@ -1,3 +1,15 @@
+Introduction:
+SmartContractX is made for deploying smart contract by pasting source code and private key and within 10-20 seconds it will provide you the contract address
+also I have added functionality to choose multiple blockchain network to select and deploy your smart contract just haven't connected that in the frontend also
+I have integrated OpneAI which will help developers to generate smart contract 
+
+Technologies Used:
+Nextjs
+Etherjs
+OpenAi
+
+
+
 Demo Link : https://smartcontractx.vercel.app/
 
 
