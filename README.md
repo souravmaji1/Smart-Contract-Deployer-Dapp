@@ -20,3 +20,31 @@ Screenshot of the Dapp:
 
 2) Generate Smart Contract:
 ![yt](https://github.com/souravmaji1/Smart-Contract-Deployer-Dapp/assets/87080195/bcb3b530-bb3c-4b41-8e3c-3cb7ed1c9fbb)
+
+
+
+Steps to run Locally:
+
+1) First Clone this repository
+
+2) Second install the dependencies by running
+
+   - npm install
+  
+3) Run the Frontend
+
+   - npm run dev
+  
+4) Go inside Backend Folder and install the dependencies
+
+    - npm install
+
+5) Run the Backend
+
+   - node app.js
+  
+
+* Make sure backend is running in the background in order to deploy your smart contract *
+
+
+Lastly Follow me on Twitter: https://twitter.com/SouravMaji221
