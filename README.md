@@ -1,7 +1,7 @@
 Introduction:
 SmartContractX is made for deploying smart contract by pasting source code and private key and within 10-20 seconds it will provide you the contract address
 also I have added functionality to choose multiple blockchain network to select and deploy your smart contract just haven't connected that in the frontend also
-I have integrated OpneAI which will help developers to generate smart contract 
+I have integrated OpneAI which will help developers to generate smart contract and Test verified smart contract read and write functions
 
 Technologies Used:
 Nextjs
@@ -20,6 +20,10 @@ Screenshot of the Dapp:
 
 2) Generate Smart Contract:
 ![yt](https://github.com/souravmaji1/Smart-Contract-Deployer-Dapp/assets/87080195/bcb3b530-bb3c-4b41-8e3c-3cb7ed1c9fbb)
+
+3) Test Smart Contract:
+![test smartcontract read and write function from smartcontractx](https://github.com/souravmaji1/Smart-Contract-Deployer-Dapp/assets/87080195/c38ff205-9b4a-45bb-8717-2e846a4d1b81)
+
 
 
 
